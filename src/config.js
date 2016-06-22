@@ -1,5 +1,5 @@
 const GITHUB_USER = 'doxiaodong';
-const GITHUB_REPO = 'Sortable';
+const GITHUB_REPO = 'darlin-angular2';
 const GITHUB_TOKEN = 'xxxxxx';
 
 exports.GITHUB_USER = GITHUB_USER;

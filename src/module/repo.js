@@ -11,7 +11,7 @@ class repo {
       this.text += `* tag: ${release.tag_name}  \n`;
       this.text += `* author: ${release.author.login}  \n`;
       this.text += `* time: ${new Intl.DateTimeFormat().format(new Date(release.published_at))}  \n`;
-      this.text += `* note: \`\`\`${release.body || 'None'}\`\`\`  \n`;
+      this.text += `* note: \n\`\`\`\n${release.body || 'None'}  \n\`\`\`  \n`;
       this.text += `\n`;
     });
     return this.text;
