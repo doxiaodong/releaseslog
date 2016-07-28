@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require('fs');
 const repo = require('./src/module/repo');
 const GITHUB_REPO = require('./src/config').GITHUB_REPO;

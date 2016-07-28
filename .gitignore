@@ -1,4 +1,6 @@
 .DS_Store
 
 config.dev.js
+tmp/
 node_modules/
+releaselog

@@ -1,6 +1,24 @@
 # darlin-angular2 Release Log  
 
 
+### [Add async route](https://github.com/doxiaodong/darlin-angular2/releases/tag/v3.6.0)  
+* tag: v3.6.0  
+* author: doxiaodong  
+* time: 7/28/2016  
+* note: 
+```
+None  
+```  
+
+### [update to angular2 rc3](https://github.com/doxiaodong/darlin-angular2/releases/tag/v3.5.0)  
+* tag: v3.5.0  
+* author: doxiaodong  
+* time: 6/23/2016  
+* note: 
+```
+use new router and correct lint  
+```  
+
 ### [update to angular2 rc2](https://github.com/doxiaodong/darlin-angular2/releases/tag/v3.4.0)  
 * tag: v3.4.0  
 * author: doxiaodong  
